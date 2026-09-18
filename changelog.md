@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+### General
+- Animations, effects, and icons now ship in the companion mod, so the server mod is about 45% smaller and modded lobbies join faster.
+
 ### AI
 - Added AI build lists for the Bugs units (metal generators, Spear, System Radar).
 - The Jammer Titan and Legion Jammer Station are no longer the first advanced intel structure built, and are built once an advanced base exists.
